@@ -1,0 +1,14 @@
+.heading{
+    font-size: 70px;
+    /* font-style: oblique; */
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    margin:  50px 200px
+    
+}
+body{
+    background-image: url('images/Create-A-Background-Particles-System-With-JavaScript-And-Canvas-nodes.js.webp');
+    /* background-repeat: no-repeat; */
+
+
+}
